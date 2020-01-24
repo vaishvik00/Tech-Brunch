@@ -1,2 +1,4 @@
 # Tech-Brunch
-Its a technical blog website made by using and PHP
+Its a technical blog website made by PHP
+
+
